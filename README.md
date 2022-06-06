@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirAyaan
 - 👀 I’m interested in cars, Anime, Manga, H3nt@i, and a little bit of code
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning how tf to use github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
